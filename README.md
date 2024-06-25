@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
 <br/>
-<br/>
 
 ### Skills
 <p>
@@ -30,12 +29,12 @@
 - Infrastructure (Kubernetes in HomeLab)
 - Side Project (지름알림)
 
-<a href="https://jirum-alarm.com"><img alt="지름알림" src="https://jirum-alarm.com/opengraph-image.png" width="250" height="150"/><a/>
+<a href="https://jirum-alarm.com"><img alt="지름알림" src="https://jirum-alarm.com/opengraph-image.png" width="230" height="130"/><a/>
 
 ### Certified
 <p>
-  <img src="https://github.com/cncf/artwork/raw/main/other/cka/color/kubernetes-cka-color.png" width="150" height="150"/>
-  <img src="https://miro.medium.com/v2/resize:fit:680/format:webp/0*3vTkkL1hWIkitO-9.png" width="150" height="150"/>
+  <img src="https://github.com/cncf/artwork/raw/main/other/cka/color/kubernetes-cka-color.png" width="100" height="100"/>
+  <img src="https://miro.medium.com/v2/resize:fit:680/format:webp/0*3vTkkL1hWIkitO-9.png" width="100" height="100"/>
 </p>
 
 
