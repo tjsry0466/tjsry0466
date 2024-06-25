@@ -27,8 +27,7 @@
 
 ### Interested In
 
-
-- Infrastructure (Kubernetes, HomeLab)
+- Infrastructure (Kubernetes in HomeLab)
 - Side Project (지름알림)
 
 <a href="https://jirum-alarm.com"><img alt="지름알림" src="https://jirum-alarm.com/opengraph-image.png" width="250" height="150"/><a/>
