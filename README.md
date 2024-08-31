@@ -2,7 +2,7 @@
 
 > 몰입이 즐거운 개발자 🐕
 
-Blog: <a href="https://velog.io/@seonkyo0466/posts">
+<a href="https://velog.io/@seonkyo0466/posts">
   <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
 <br/>
