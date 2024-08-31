@@ -7,6 +7,13 @@
 </a>
 <br/>
 
+### Interested In
+
+- Infrastructure (Kubernetes in HomeLab)
+- Side Project (지름알림)
+
+<a href="https://jirum-alarm.com"><img alt="지름알림" src="https://jirum-alarm.com/opengraph-image.png" width="230" height="130"/><a/>
+
 ### Skills
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -23,13 +30,6 @@
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
-
-### Interested In
-
-- Infrastructure (Kubernetes in HomeLab)
-- Side Project (지름알림)
-
-<a href="https://jirum-alarm.com"><img alt="지름알림" src="https://jirum-alarm.com/opengraph-image.png" width="230" height="130"/><a/>
 
 ### Certified
 <p>
