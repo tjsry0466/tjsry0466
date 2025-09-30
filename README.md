@@ -12,7 +12,7 @@
 - Infrastructure (Kubernetes in HomeLab)
 - Side Project (지름알림)
 
-<a href="https://jirum-alarm.com"><img alt="지름알림" src="https://jirum-alarm.com/opengraph-image.png" width="230" height="130"/><a/>
+<a href="https://jirum-alarm.com"><img alt="지름알림" src="https://cdn.jirum-alarm.com/assets/opengraph_image.png" width="230" height="130"/><a/>
 
 ### Skills
 <p>
